@@ -1,0 +1,11 @@
+[class*="col-"]
+{
+   border: 1px solid white;
+}
+
+header
+{
+    background-color: #333333;
+    color: #ffffff;
+    height: 50px;
+}
